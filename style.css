@@ -48,3 +48,13 @@ body {
     word-wrap:break-word;
     word-break: break-all;
 }
+
+.answer .firstNumber {
+    color: rgb(173, 24, 116);
+    font-size: 1.5rem;
+}
+
+.answer .secondNumber {
+    color: rgb(18, 155, 197);
+    font-size: 2.5rem;
+}
